@@ -1,4 +1,4 @@
-# buzzkoning
+# Buzzkoning
 _A Discord bot for time-synced / standardized Online Quizbowl buzzing._
 
 This is the official Arizona Quizbowl and Sun Devil Quizbowl buzzer Discord bot, written in Python.

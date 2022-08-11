@@ -2,7 +2,7 @@
 _A Discord bot for time-synced / standardized Online Quizbowl buzzing._
 
 This is the official Arizona Quizbowl and ASU Sun Devil Quizbowl buzzer bot for Discord, written in Python.
-**Bot token blocked for privacy.**
+It's currently deployed through Heroku, with concurrent capability for Cloudflare Workers and AWS Lambda.
 
 If you'd like to make use of this or have any questions, send me an [email](mailto:hlakamsani.gmail.com) or leave an [issue](https://github.com/hlakams/buzzkoning/issues).
 
